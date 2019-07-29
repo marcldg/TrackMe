@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+  }
+  
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+p.introduction {
+                text-align: left;
+                color: blueviolet;
+}
+
+p.completedunits {
+                text-align: left;
+                color: black;
+}
+
+p.units {
+        text-align: left;
+        color: green;
+}
